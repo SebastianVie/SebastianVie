@@ -1,16 +1,27 @@
-### Hi there 👋
+# Sebastian Viehhofer
 
-<!--
-**SebastianVie/SebastianVie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm Sebastian Viehhofer, a computer science student at IE School of Science and Technology with a business background and an MBA.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Areas of Interest: AI & ML, Data Science, Finance, Consulting
+
+🎓 Education: MSc in Computer Science with Specialization in AI, MSc in Management
+
+💼 Previous Professional Experience: Financial Modelling, Consulting, Teaching Assistant at Nova School of Business and Economics
+
+🧠 Currently Learning: Spark & Hadoop for Big Data processing
+
+🗻 Interests: Technology, Sports
+
+💡 Personal Motto: "Feed curiosity, seek the right tools, build solutions."
+
+## Get in Touch
+
+💼 [LinkedIn](https://www.linkedin.com/in/sebastian-viehhofer/)
+📧 Email: sebastian.viehhofer@student.ie.edu
+
+## Languages and Tools
+
+⚙️ Python | Pandas | NumPy | TensorFlow | Scikit-learn | Apache Spark | Matplotlib | Seaborn | Flask | Excel | MySQL | GCP | Oracle | Docker | Git | JavaScript | HTML5
+
