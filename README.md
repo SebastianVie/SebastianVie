@@ -8,13 +8,22 @@
 
 🎓 Education: MSc in Computer Science with Specialization in AI, MSc in Management
 
-💼 Previous Professional Experience: Financial Modelling, Consulting, Teaching Assistant at Nova School of Business and Economics
+💼 Previous Professional Experience:
+**General Manager** - Typographus GmbH, Berlin, Germany
+Mar 2017 - Sep 2022
+- Head of Operations, Financial statements creation, Strategic decision-making support, Statistical analysis, Monthly business report analysis
 
-🧠 Currently Learning: Spark & Hadoop for Big Data processing
+**Operations and Innovations Manager** - Typographus GmbH, Berlin, Germany
+Oct 2017 - Mar 2020
+- Head of Production, Implemented Lean Management, Implemented ERP Software Microsoft Navision NAV as key-user
 
-🗻 Interests: Technology, Sports
+**Internships**
+- Various internships in strategic project management, category management, and project support roles
 
-💡 Personal Motto: "Feed curiosity, seek the right tools, build solutions."
+
+🧠 Currently Learning: AI & IoT
+
+🗻 Interests: Technology, Sports 
 
 ## Get in Touch
 
