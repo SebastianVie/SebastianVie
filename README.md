@@ -1,10 +1,10 @@
 # Sebastian Viehhofer
 
-👋 Hello! I'm Sebastian Viehhofer, a computer science student at IE School of Science and Technology with a business background and an MBA.
+👋 Hello! I'm Sebastian Viehhofer, a Systems ENgineer at Palo ALto Networks and a former computer science student at IE School of Science and Technology with a business background and an MBA.
 
 ## About Me
 
-🧪 Areas of Interest: AI & ML, Data Science, Finance, Consulting
+🧪 Areas of Interest: Cybersecurity, Networking, AI & ML, Data Science, Finance, Consulting
 
 🎓 Education: MSc in Computer Science with Specialization in AI, MSc in Management
 
@@ -21,7 +21,7 @@ Oct 2017 - Mar 2020
 - Various internships in strategic project management, category management, and project support roles
 
 
-🧠 Currently Learning: AI & IoT
+🧠 Currently Improving: Network Security & IoT
 
 🗻 Interests: Technology, Sports 
 
