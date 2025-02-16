@@ -1,6 +1,6 @@
 # Sebastian Viehhofer
 
-👋 Hello! I'm Sebastian Viehhofer, a Systems Engineer at Palo ALto Networks and a former computer science student at IE School of Science and Technology with a business background and an MBA.
+👋 Hello! I'm Sebastian Viehhofer, a Systems Engineer at Palo Alto Networks and a former computer science student at IE School of Science and Technology with a business background and an MBA.
 
 ## About Me
 
